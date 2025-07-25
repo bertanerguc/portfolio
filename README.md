@@ -9,6 +9,16 @@
 
 ---
 
+## 🚀 **Latest Project: Shopify E-commerce Analytics Demo**
+**Repository:** [shopify-ecommerce-demo](https://github.com/bertanerguc/shopify-ecommerce-demo)  
+**Live Demo:** [e-commerce-analytics-showcase.myshopify.com](https://e-commerce-analytics-showcase.myshopify.com) (Password: `retwao`)
+
+Advanced Shopify theme featuring real-time analytics dashboard, AI-powered product recommendations, and performance optimization. Built in 3 hours to showcase full-stack e-commerce development skills.
+
+**Key Features:** Analytics Dashboard • Product Recommendations • Performance Metrics • Mobile-Responsive Design
+
+---
+
 ## 🚀 Featured Project: ECUNOVAX - AI-Powered Automotive Platform
 
 **Live Platform:** [www.ecunovax.com](https://www.ecunovax.com)
